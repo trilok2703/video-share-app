@@ -1,0 +1,18 @@
+.slick-slider {
+    width: 1200px;
+    display: flex;
+    align-items: center;
+}
+
+/* Base styles for arrow icons */
+.slick-arrow-icon {
+    color: black; /* Set the color of the arrow icon */
+    font-size: 20px; /* Set the font size of the arrow icon */
+    transition: color 0.3s ease; /* Add transition for smooth color change */
+    margin: 10px;
+  }
+  
+  /* Hover styles for arrow icons */
+  .slick-arrow-icon:hover {
+    color: gray; /* Change color on hover */
+  }
